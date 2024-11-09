@@ -27,8 +27,6 @@ To launch the current version of Muffin (Muffin V2.7l), simply run the following
 python main.py
 ```
 
-If you’d like to try out older versions, you can find them in the `Snapshots` folder.
-
 ---
 
 ## Available Versions
