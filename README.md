@@ -37,27 +37,27 @@ Here are the available versions of MuffinLM:
 
 - **Muffin v1**: 
   ```bash
-  python Snapshots/Snap-1.py
+  python Snap-1.py
   ```
 - **Muffin v2**: 
   ```bash
-  python Snapshots/Snap-2.py
+  python Snap-2.py
   ```
 - **Muffin v2.1**: 
   ```bash
-  python Snapshots/Snap-3.py
+  python Snap-3.py
   ```
 - **Muffin v2.5**: 
   ```bash
-  python Snapshots/Snap-4.py
+  python Snap-4.py
   ```
 - **Muffin v2.7f**: 
   ```bash
-  python Snapshots/Snap-5.py
+  python Snap-5.py
   ```
 - **Muffin v2.7c**: 
   ```bash
-  python Snapshots/Snap-5.py
+  python Snap-5.py
   ```
 
 ---
@@ -73,14 +73,6 @@ The `Snapshots` folder contains a `Datasets` folder with the following files:
 - `dataset-5.txt` *(used to train Muffin v5.7f)*
 - `dataset-5-casual.txt` *(used to train Muffin v5.7c)*
 - `dataset-5-large.txt` *(used to train Muffin v5.7l)*
-
-To add new datasets, place them in the `Datasets` folder and update the `corpus_file_path` in any version of Muffin (except `Snap-1.py`) to point to your new dataset:
-
-```python
-corpus_file_path = 'MuffinLM/Snapshots/Models/Vx/<name>.txt'
-```
-
----
 
 ## Saving Generated Text
 
