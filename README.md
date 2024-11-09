@@ -36,29 +36,16 @@ If you’d like to try out older versions, you can find them in the `Snapshots` 
 Here are the available versions of MuffinLM:
 
 - **Muffin v1**: 
-  ```bash
-  python Snap-1.py
-  ```
+
 - **Muffin v2**: 
-  ```bash
-  python Snap-2.py
-  ```
+
 - **Muffin v2.1**: 
-  ```bash
-  python Snap-3.py
-  ```
+
 - **Muffin v2.5**: 
-  ```bash
-  python Snap-4.py
-  ```
+
 - **Muffin v2.7f**: 
-  ```bash
-  python Snap-5.py
-  ```
+
 - **Muffin v2.7c**: 
-  ```bash
-  python Snap-5.py
-  ```
 
 ---
 
