@@ -35,17 +35,17 @@ If you’d like to try out older versions, you can find them in the `Snapshots` 
 
 Here are the available versions of MuffinLM:
 
-- **Muffin v1**: 
+- **Muffin v1** 
 
-- **Muffin v2**: 
+- **Muffin v2**
 
-- **Muffin v2.1**: 
+- **Muffin v2.1** 
 
-- **Muffin v2.5**: 
+- **Muffin v2.5** 
 
-- **Muffin v2.7f**: 
+- **Muffin v2.7f** 
 
-- **Muffin v2.7c**: 
+- **Muffin v2.7c**
 
 ---
 
