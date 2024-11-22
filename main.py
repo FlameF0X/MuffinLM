@@ -1,5 +1,10 @@
 ################################################################
 #   Muffin V2.7l -- VERSION 2.7 large (code name: Elizabeth)   #
+#                                                              #
+#    Be aware that Elizabeth dataste is too big for Git so     #
+#    you need to train in on your machine. IDK if is the       #
+#    optimizate code for training. so expect it to be slow on  #
+#    potatos.                                                  #
 ################################################################
 
 import os
