@@ -5,6 +5,8 @@
 #    you need to train in on your machine. IDK if is the       #
 #    optimizate code for training. so expect it to be slow on  #
 #    potatos.                                                  #
+#                                                              #
+#    architecture: LSTM <3                                     #
 ################################################################
 
 import os
@@ -64,8 +66,8 @@ class TextGenerator:
         self.dataloader = DataLoader(self.dataset, batch_size=64, shuffle=True)
 
         # Directory for saving/loading model
-        self.model_path = 'model/model-main.pth'
-        self.training_dir = 'model'
+        self.model_path = 'model-main.pth'
+        self.training_dir = ''
 
         # Ensure the directory exists
         if not os.path.exists(self.training_dir):
@@ -181,7 +183,7 @@ class TextGenerator:
 
 
 # Use the larger corpus dataset (dataset-4.txt)
-corpus_file_path = 'dataset/dataset-5-large.txt'
+corpus_file_path = 'dataset-large.txt'
 
 # Initialize the text generator with the LSTM model
 generator = TextGenerator(corpus_file_path)
