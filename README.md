@@ -1,7 +1,7 @@
 # MuffinLM
 
 > **MuffinLM Documentation**  
-> *(Please read everything!)*
+> *(Please read everything! and use only Elizabeth for now.)*
 
 MuffinLM (also known as MLM) is a lightweight text-generation AI model designed for easy use and flexibility.
 
@@ -55,9 +55,9 @@ The `Snapshots` folder contains a `Datasets` folder with the following files:
 - `dataset-2.txt` *(unused)*
 - `dataset-3.txt`
 - `dataset-4.txt`
-- `dataset-5.txt` *(used to train Muffin v5.7f)*
-- `dataset-5-casual.txt` *(used to train Muffin v5.7c)*
-- `dataset-5-large.txt` *(used to train Muffin v5.7l)*
+- `dataset-5.txt` *(used to train Muffin v2.7f)*
+- `dataset-5-casual.txt` *(used to train Muffin v2.7c)*
+- `dataset-5-large.txt` *(used to train Muffin v2.7l)*
 
 ## Saving Generated Text
 
@@ -75,7 +75,7 @@ To save the generated text, type `yes`. The text will be saved to `SaveGenerated
 
 **MAJOR.MINOR.CODE**
 
-Muffin v5 is split into three sub-versions: Muffin v2.7f, Muffin v2.7c and Muffin v2.7l. The letter after V5 denotes the version type:
+Muffin v2 is split into three sub-versions: Muffin v2.7f, Muffin v2.7c and Muffin v2.7l. The letter after V5 denotes the version type:
 
 - **c**: Designed to be more casual.
 - **f**: Designed to be more fancy, ideal for poetic text.
