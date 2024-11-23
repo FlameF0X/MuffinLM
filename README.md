@@ -83,7 +83,7 @@ Muffin v2 is split into three sub-versions: Muffin v2.7f, Muffin v2.7c and Muffi
 
 ## Requirements
 
-Muffin V5 and newer versions require PyTorch to run. You can install it with:
+Muffin V2 and newer versions require PyTorch to run. You can install it with:
 
 ```bash
 pip install torch
