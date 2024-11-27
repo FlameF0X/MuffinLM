@@ -3,7 +3,7 @@
 > **MuffinLM Documentation**  
 > *(Please read everything! and use only Elizabeth for now.)*
 
-MuffinLM (also known as MLM) is a lightweight text-generation AI model designed for easy use and flexibility.
+MuffinLM (also known as MLM) is a lightweight text-generation AI model designed for easy use and flexibility, a project coordinated by [FlameF0X](https://github.com/FlameF0X/) and [2F AI](https://github.com/2F-AI)
 
 ---
 
