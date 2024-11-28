@@ -5,7 +5,8 @@
 
 ---
 
-> **This project is licensed under the CC BY-NC 4.0 License.**
+## **This project is licensed under the CC BY-NC 4.0 License.**
+![CC BY-NC]( https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg " ")
 
 ---
 
