@@ -4,10 +4,16 @@
 > *(Please read everything! and use only Elizabeth for now.)*
 
 ---
+
 > **This project is licensed under the CC BY-NC 4.0 License.**
+
 ---
 
 MuffinLM (also known as MLM) is a lightweight text-generation AI model designed for easy use and flexibility, a project coordinated by [FlameF0X](https://github.com/FlameF0X/) and [2F AI](https://github.com/2F-AI)
+
+---
+
+**Parameters:** 5.8M
 
 ---
 
@@ -37,18 +43,15 @@ python main.py
 
 Here are the available versions of MuffinLM:
 
-- **Muffin v1** 
-
-- **Muffin v2**
-
-- **Muffin v2.1** 
-
-- **Muffin v2.5** 
-
-- **Muffin v2.7f** 
-
-- **Muffin v2.7c**
-
+|   **Model**   | Parameters |
+|---------------|------------|
+|   Muffin v1   |    NaN     |
+|   Muffin v2   |    NaN     |
+|  Muffin v2.1  |    NaN     |
+|  Muffin v2.5  |    NaN     |
+| Muffin v2.7f  |    NaN     |
+| Muffin v2.7c  |    NaN     |
+| Muffin v2.7l  |    5.8M    |
 ---
 
 ## Datasets
