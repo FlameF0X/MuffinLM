@@ -14,6 +14,8 @@ MuffinLM (also known as MLM) is a lightweight text-generation AI model designed 
 
 ---
 
+## Something
+
 |                            **Model**                            |    **Type**     | **Parameters** |
 |-----------------------------------------------------------------|-----------------|----------------|
 |   [Muffin 2.7l](https://github.com/2F-AI/MuffinLM/tree/main)    | Text Generation |      5.8M      |
