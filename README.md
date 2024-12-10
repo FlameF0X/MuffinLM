@@ -57,12 +57,6 @@ Here are the available versions of MuffinLM:
 
 |   **Model**   | Parameters |
 |---------------|------------|
-|   Muffin v1   |    NaN     |
-|   Muffin v2   |    NaN     |
-|  Muffin v2.1  |    NaN     |
-|  Muffin v2.5  |    NaN     |
-| Muffin v2.7f  |    NaN     |
-| Muffin v2.7c  |    NaN     |
 | Muffin v2.7l  |    5.8M    |
 ---
 
@@ -70,12 +64,6 @@ Here are the available versions of MuffinLM:
 
 The `Snapshots` folder contains a `Datasets` folder with the following files:
 
-- `dataset-1.txt`
-- `dataset-2.txt` *(unused)*
-- `dataset-3.txt`
-- `dataset-4.txt`
-- `dataset-5.txt` *(used to train Muffin v2.7f)*
-- `dataset-5-casual.txt` *(used to train Muffin v2.7c)*
 - `dataset-5-large.txt` *(used to train Muffin v2.7l)*
 
 ## Saving Generated Text
